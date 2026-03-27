@@ -27,6 +27,9 @@ A compact, high-signal NLP project that fine-tunes **DistilBERT** to classify te
 - **Weighted F1:** ~0.92  
 - **Note:** strong performance overall; **surprise** is typically the hardest class to predict.
 
+## How to Run
+Open the `.ipynb` notebook in **Google Colab** or **Jupyter Notebook** and **Run all cells** to reproduce the analyses and visualizations.
+
 ## Tools Used
 - Python  
 - PyTorch  
